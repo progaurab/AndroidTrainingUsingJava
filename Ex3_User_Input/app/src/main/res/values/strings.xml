@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ex3_User_Input</string>
+    <string name="name">Name</string>
+    <string name="institute">Institute</string>
+    <string name="writeName">Write your name</string>
+    <string name="instituteName">where do you study ?</string>
+</resources>
