@@ -24,9 +24,6 @@ public class MainActivity extends AppCompatActivity implements
     String selectedState, selectedGender;
     private RadioGroup radioGroup;
 
-    //private RadioGroup radioSexGroup;
-    //private RadioButton radioSexButton;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -36,7 +33,6 @@ public class MainActivity extends AppCompatActivity implements
         editPassword = (EditText) findViewById(R.id.editPassword);
         editAddress = (EditText) findViewById(R.id.editAddress);
         editAge = (EditText) findViewById(R.id.editAge);
-       // radioSexGroup=(RadioGroup)findViewById(R.id.radioGroup);
         radioGroup = findViewById(R.id.radioGroup);
 
         radioGroup.setOnCheckedChangeListener(new RadioGroup.OnCheckedChangeListener() {
