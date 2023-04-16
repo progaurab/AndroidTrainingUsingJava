@@ -17,7 +17,7 @@ A working knowledge of Java is assumed, but you don't need to be a Java guru.
 * Learning basic building block of Android Application Development
 * Learn Android Application Development using Java
 
-# Software - version[ Last Updated on 06 March 2022]:
+# Software - version[ Last Updated on 16 April 2023]:
 * Android Studio - Android Studio Electric Eel | 2022.1.1 RC 1
 * JDK - openjdk version "11.0.12"
 * Gradle - 7.4
